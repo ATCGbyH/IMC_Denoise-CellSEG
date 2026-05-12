@@ -1,6 +1,17 @@
-# IMC_Denoise & Cell Segmentation (Model Training, Performance Evaluation & Impacts in Downstream Analysis)
+# IMC_Denoise & Cell Segmentation 
+<ul>
+  <li>Deep Learning Model Training</li>
+  <li>Performance Evaluation</li>
+  <li>Impacts in Downstream Analysis:
+    <ul>
+      <li>Cell Segmentation</li>
+      <li>Marker Expression</li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Description</h2>
-This study applied an adaptation of <a href="https://github.com/PENGLU-WashU/IMC_Denoise">IMC_Denoise</a>, a self-supervised deep learning pipeline, to a multi-channel Imaging Mass Cytometry dataset of PDAC and IPMN samples with immune, stromal, and nuclear markers. The models generated denoised outputs and was evaluated using PSNR, SSIM, segmentation quality, and marker expression consistency.
+This study applied an adapted version of <a href="https://github.com/PENGLU-WashU/IMC_Denoise">IMC_Denoise</a>, a self-supervised deep learning pipeline, to a multi-channel Imaging Mass Cytometry dataset of PDAC and IPMN samples with immune, stromal, and nuclear markers. The models generated denoised outputs and was evaluated using PSNR, SSIM, segmentation quality, and marker expression consistency.
 
 <h2>Languages and Utilities for Project</h2>
 
