@@ -59,6 +59,8 @@ Patches were generated and visualised for each image using a function integrated
 <h4> Example of Generated Patches: </h4>
 <img src="https://i.postimg.cc/MGr3sVwP/Screenshot-2026-05-12-215457.png" height="80%" width="80%" alt="Generated Patches"/>
 
+Patches were visualised using <a href="https://www.fabiocrameri.ch/batlow/">cmc.batlow</a>, a colour-blind friendly colour gradient (Crameri, 2023). 
+
 Each set of patches was subsequently used to train a DeepSNiF model for their respective channel, 
 using the same parameters for all 15 models. Training epoches were increased from 50 to the default 200 for 
 statistical purposes, ensuring a plateau was achieved for very noisy channels, with train batch size set to the default of 128. 
