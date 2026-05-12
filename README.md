@@ -24,11 +24,11 @@ Visit creators page for more information on installation and troubleshooting <a 
 
 A set of pancreatic histology clinical samples was processed by the University of Verona, by selecting 
 multiple regions of interest (ROIs) and assembling them into multiple tissue microarray (TMA) slides, 
-subsequently digitalised via Imaging Mass Cytometry (IMC) into an extensive data set.
+subsequently digitalised via Imaging Mass Cytometry (IMC) into an extensive data set. </h5>
 
 This dataset was then made available to the Maiques Lab from Barts Cancer Institute (BCI), from which 371 distinct multi-channelled images of PDAC (n = 187) and IPMN (n = 184) samples, covering multiple pancreatic regions of each patient, were used for analysis. 
 
-<b> These TMAs were stained with labelled metal-isotope-conjugated antibodies containing, for each 
+These TMAs were stained with labelled metal-isotope-conjugated antibodies containing, for each 
 multiplexed tissue image, a total of 37 channels specific to distinct cell markers, from which 15 of them, 
 targeting immune and stromal markers, were selected for this experiment.
 
