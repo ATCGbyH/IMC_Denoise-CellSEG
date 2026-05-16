@@ -7,7 +7,7 @@
       <li>Cell Segmentation</li>
       <li>Marker Expression</li>
     </ul>
-  </li>
+  </li> Multiplex IMC Channel Sorting <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG/blob/main/Sorting_IMG_Function.ipynb"> pipeline </a>
 </ul>
 
 <h2>Description</h2>
