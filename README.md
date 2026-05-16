@@ -9,8 +9,30 @@
     </ul>
 </ul>
 
-<h2>Project Description </h2>
-This study applied an adapted version of <a href="https://github.com/PENGLU-WashU/IMC_Denoise">IMC_Denoise</a>, a self-supervised deep learning pipeline, to a multi-channel Imaging Mass Cytometry dataset of PDAC and IPMN samples with immune, stromal, and nuclear markers. The models generated denoised outputs and was evaluated using PSNR, SSIM, segmentation quality, and marker expression consistency.
+<h2>Project Description</h2>
+
+This study applied an adapted version of <a href="https://github.com/PENGLU-WashU/IMC_Denoise">IMC_Denoise</a>, a self-supervised deep learning pipeline, to a multi-channel Imaging Mass Cytometry dataset of PDAC and IPMN samples with immune, stromal, and nuclear markers. 
+
+The models generated denoised outputs and were evaluated using PSNR, SSIM, segmentation quality, and marker expression consistency. 
+
+The segmentation was performed using <a href="https://napari.org/stable/">Napari</a> and 
+BodenmillerGroup's <a href="https://bodenmillergroup.github.io/IMCDataAnalysis/">IMC Data Analysis Workflow</a>.
+
+All the Data generation, analysis and plotting was performed by me for this project, including the creation of some pipelines that were missing to make this project go forward.
+
+Due to the nature of this project, Raw data was compared with Denoised to assess IMC quality pre- and post-denoising. 
+
+This required:
+1. Training IMC_Denoise DL-models for each channel
+2. Run model predictions
+3. Generate prediction metrics (PSNR, SSIM)
+4. Re-organise data by re-joining different multiplex channels of the same sample
+5. Segment multiplex images (Raw vs Denoised)
+6. Plot Data
+
+Steps 2, 6 required pipeline manipulation to adapt it for my data type
+
+Steps 3, 4 and 6 required me to develop brand new pipelines
 
 <h2> Context </h2>
 
@@ -31,6 +53,7 @@ For Full Project overview please refer to <a href="https://github.com/ATCGbyH/IM
 - <b>Python</b> 
 - <b>R</b>
 - <b>Bash / C<b/>
+- <b>Docker<b/>
 
 <h2>Environment Properties for IMC_Denoise </h2>
 
