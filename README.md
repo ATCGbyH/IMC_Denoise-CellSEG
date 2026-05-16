@@ -93,5 +93,7 @@ While predictions were running, this function would side them by the raw image f
 purposes and produce Peak signal-to-noise ratio (PSNR) and Structural similarity index measurement (SSIM) 
 metrics, stored separately in .csv format. Metrics graphs were plotted from previously saved .csv files, and the efficiency in removing noise while preserving the tissue architecture was evaluated individually. 
 
-Finally, following predictions, a function was built to reorganise denoised images into new folders 
-specific to each sample, containing all fifteen image channels.
+Finally, following predictions, a <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG/blob/main/Sorting_IMG_Function.ipynb">Multiplex IMC Channel sorting pipeline</a> was built to reorganise denoised images into new folders specific to each sample, containing all 37 image channels.
+
+
+
