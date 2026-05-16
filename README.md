@@ -1,4 +1,4 @@
-# IMC_Denoise & Cell Segmentation 
+# IMC Data Denoising & Cell Segmentation 
 <ul>
   <li>Deep Learning Model Training</li>
   <li>Performance Evaluation</li>
