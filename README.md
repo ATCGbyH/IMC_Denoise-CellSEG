@@ -73,6 +73,10 @@ Visit creators page for more information on installation and troubleshooting <a 
 
 Due to HPC issues and unability to re-access, a majority of the pipelines built by me during this project were lost before getting uploaded.
 
+Nevertheless, please find bellow some of the pipelines I managed to retrieve. 
+
+Hopefully more will be added as I re-do the project.
+
 <ul>
   <li>Multiplex IMC Channel Sorting <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG/blob/main/Sorting_IMG_Function.ipynb"> pipeline </a></li>
   <li>IMC_Denoise Model Training by Channel (Example) <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG/blob/main/IMC_Denoise_Train-Example(CD163).ipynb"> pipeline</li>
