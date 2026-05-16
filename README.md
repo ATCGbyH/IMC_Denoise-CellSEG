@@ -30,7 +30,7 @@ This required:
 5. Segment multiplex images (Raw vs Denoised)
 6. Plot Data
 
-Steps 1, 2 and 5 required pipeline manipulation to adapt it for my data type
+Steps 1, 2 and 5 required pipeline manipulation to adapt it for my data format
 
 Steps 3, 4 and 6 required me to develop brand new pipelines
 
