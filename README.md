@@ -15,7 +15,7 @@ This study applied an adapted version of <a href="https://github.com/PENGLU-Wash
 
 ### For project overview please refer to <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG/blob/main/Presentation%20FINAL%20CAN7036.pdf">Presentation FINAL CAN7036</a>
 
-### For Full project details, read bellow:
+### For full project details, read bellow:
 
 <h2>Languages and Utilities for Project</h2>
 
