@@ -13,6 +13,10 @@
 <h2>Description</h2>
 This study applied an adapted version of <a href="https://github.com/PENGLU-WashU/IMC_Denoise">IMC_Denoise</a>, a self-supervised deep learning pipeline, to a multi-channel Imaging Mass Cytometry dataset of PDAC and IPMN samples with immune, stromal, and nuclear markers. The models generated denoised outputs and was evaluated using PSNR, SSIM, segmentation quality, and marker expression consistency.
 
+### For project overview please refer to <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG/blob/main/Presentation%20FINAL%20CAN7036.pdf">Presentation FINAL CAN7036</a>
+
+### For Full project details, read bellow:
+
 <h2>Languages and Utilities for Project</h2>
 
 - <b>Python</b> 
@@ -28,10 +32,6 @@ This study applied an adapted version of <a href="https://github.com/PENGLU-Wash
 - NVIDIA GPU + CUDA
 
 Visit creators page for more information on installation and troubleshooting <a href="https://github.com/PENGLU-WashU/IMC_Denoise">IMC_Denoise</a>
-
-## For project overview please refer to <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG/blob/main/Presentation%20FINAL%20CAN7036.pdf">Presentation FINAL CAN7036</a>
-
-## For Full project details, read bellow:
 
 <h2>Methods:</h2>
 
