@@ -7,8 +7,10 @@
       <li>Cell Segmentation</li>
       <li>Marker Expression</li>
     </ul>
-  </li> Multiplex IMC Channel Sorting <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG/blob/main/Sorting_IMG_Function.ipynb"> pipeline </a>
-</ul>
+  <li>Multiplex IMC Channel Sorting <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG/blob/main/Sorting_IMG_Function.ipynb"> pipeline </a></li>
+  </ul>
+
+
 
 <h2>Description</h2>
 This study applied an adapted version of <a href="https://github.com/PENGLU-WashU/IMC_Denoise">IMC_Denoise</a>, a self-supervised deep learning pipeline, to a multi-channel Imaging Mass Cytometry dataset of PDAC and IPMN samples with immune, stromal, and nuclear markers. The models generated denoised outputs and was evaluated using PSNR, SSIM, segmentation quality, and marker expression consistency.
