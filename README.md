@@ -46,7 +46,7 @@ These TMAs were stained with labelled metal-isotope-conjugated antibodies contai
 multiplexed tissue image, a total of 37 channels specific to distinct cell markers, from which 15 of them, 
 targeting immune and stromal markers, were selected for this experiment.
 
-For Full Project overview please refer to <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG/blob/main/Presentation%20FINAL%20CAN7036.pdf">Project Presentation</a>
+For Full Project overview please refer to <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG/blob/main/Project%20Overview.pdf">Project Presentation</a>
 
 <h2>Languages and Utilities for Project</h2>
 
