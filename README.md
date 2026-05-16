@@ -29,6 +29,10 @@ This study applied an adapted version of <a href="https://github.com/PENGLU-Wash
 
 Visit creators page for more information on installation and troubleshooting <a href="https://github.com/PENGLU-WashU/IMC_Denoise">IMC_Denoise</a>
 
+## For project overview please refer to <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG/blob/main/Presentation%20FINAL%20CAN7036.pdf">Presentation FINAL CAN7036</a>
+
+## For Full project details, read bellow:
+
 <h2>Methods:</h2>
 
 <h3>Clinical Samples, Data Acquisition and Pre-processing</h3>
