@@ -75,7 +75,7 @@ Due to HPC issues and unability to re-access, a majority of the pipelines built 
 
 Nevertheless, please find bellow some of the pipelines I managed to retrieve. 
 
-Hopefully more will be added as I re-do the project.
+Hopefully more will be added as I re-do the project, as I am currently re-training this models to try to achieve improved denoising and consequently better segmentation.
 
 <ul>
   <li>Multiplex IMC Channel Sorting <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG/blob/main/Sorting_IMG_Function.ipynb"> pipeline </a></li>
